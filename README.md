@@ -1,7 +1,6 @@
 # Shulker Archives
 
-# <p style="color: red; font-style: italic;">This project is no longer maintained. Please <a href="https://github.com/KadTheHunter/ShulkerArchives/blob/master/NoLongerMaintained.md" rel="noopener noreferrer" target="_blank">read here</a> for more information.</h3>
-
+# This is the Legacy Version of The Shulker Archives. All entries contained here grow more outdated (and possibly even broken) by the day, and exist purely as a reference point for the pre-Map version of the Archives.
 
 ![Cute Mascot :3](assets/Shulker_shooting.gif)
 
@@ -14,5 +13,3 @@ Website to archive Shulker Kit NBT Data
 Unless you have an interest in opening a PR or reporting a bug, there's really not much here for you tbh.
 
 If you're looking to submit a kit/item/book, please contact Kad in Discord DMs `@kaddicus`
-
-If you want to add an entry yourself, have a look at the [Contributing Guidelines](https://github.com/KadTheHunter/ShulkerArchives/blob/master/CONTRIBUTING.md)
